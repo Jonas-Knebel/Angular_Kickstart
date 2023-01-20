@@ -1,0 +1,21 @@
+{
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=827846
+  "recommendations": [
+    "angular.ng-template",
+    "johnpapa.angular-essentials",
+    "formulahendry.auto-rename-tag",
+    "pranaygp.vscode-css-peek",
+    "eamodio.gitlens",
+    "chr33z.lingua-vscode",
+    "pkief.material-icon-theme",
+    "nikhilgoud.ngx-translate-utils",
+    "eg2.vscode-npm-script",
+    "christian-kohler.path-intellisense",
+    "johnpapa.vscode-peacock",
+    "esbenp.prettier-vscode",
+    "2gua.rainbow-brackets",
+    "sonarsource.sonarlint-vscode",
+    "alfnielsen.vsc-organize-imports",
+    "johnpapa.winteriscoming"
+  ]
+}
